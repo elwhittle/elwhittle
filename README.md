@@ -1,4 +1,5 @@
 ## Hi, I'm El.
+[Resume](Resume.pdf) | [Website](https://elwhittle.github.io/)
 
  - 🤖 Founding engineer @ [Insightflo](https://www.goinsightflow.com/)
  - 🎓 B.S. Computer Science, Mathematics minor @ NYU Tandon School of Engineering
